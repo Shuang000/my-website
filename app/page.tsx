@@ -19,7 +19,7 @@ export default function Home() {
       <header className="sticky top-0 bg-white/80 backdrop-blur-sm shadow-md px-8 py-4 z-50">
         <h1 className="text-4xl font-bold text-center bg-gradient-to-r from-blue-600 to-blue-400 text-transparent bg-clip-text
                        transform transition-all duration-300 hover:scale-105">
-          Sophie's Website
+          Sophie&#39;s Website
         </h1>
       </header>
 
